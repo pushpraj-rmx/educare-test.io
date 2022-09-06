@@ -1,2 +1,0 @@
-# Use PHP5 as default
-AddHandler application/x-httpd-ea-php74___lsphp .php .html .shtml
