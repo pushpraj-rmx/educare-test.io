@@ -52,8 +52,8 @@
                 <div class="texteducare-info clearfix">
                   <div class="info-icon"> <i class="fa fa-map-marker"></i> </div>
                   <div class="info-text">
-                    <h6>90 Seward Crescent, Ajax </h6>
-                    <p>Ontario, L1Z1Y9</p>
+                    <h6>511 Excellence Apartment</h6>
+                    <p>Sector 18A Plot 4, Dwarka,<br>New Delhi </p>
                   </div>
                 </div>
               </aside>

@@ -59,14 +59,17 @@
                   <ul class="list-unstyled">
                     <li><i class="fa fa-envelope-o"></i><a href="mailto:richa@one2onetutorials.com">richa@one2onetutorials.com</a></li>
                     <li><i class="fa fa-phone"></i><a href="tel:9911998316">+91 991 199 8316</a></li>
-                    <li><i class="fa fa-map-marker"></i><a href="#">
-                      <p>90 Seward Crescent, Ajax </p>
-                      <p>Ontario, L1Z1Y9</p>
-                      </a></li>
+                    
                     <li><i class="fa fa-map-marker"></i><a href="#">
                       <p>511 excellence apartment </p>
                       <p>Sector 18A plot 4. Dwarka,<br> New Delhi </p>
                       </a></li>
+                    
+                    <li><i class="fa fa-map-marker"></i><a href="#">
+                      <p>90 Seward Crescent, Ajax </p>
+                      <p>Ontario, L1Z1Y9</p>
+                      </a></li>
+                    
                   </ul>
                 </div>
               </div>
@@ -92,7 +95,7 @@
             <li><a href="#">CONTACT</a></li>
           </ul>
         </div>
-        <div class="pull-right hyper-right">Copyright @2022 One2One Tutorials</div>
+        <div class="pull-right hyper-right">Curated by National Marketing Projects Inc.</div>
       </div>
     </div>
   </div>
